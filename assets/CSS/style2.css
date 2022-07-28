@@ -1,0 +1,25 @@
+body {
+    margin: 2px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("https://fondosmil.com/fondo/31112.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+    .Titulo{
+        background-color: rgb(240, 128, 146);
+    }
+    .bibliografia{
+        color: white;
+        margin: 8px;
+        font-size: larger;
+        text-align: justify;
+        padding: 0px;
+        border-radius: 10px;
+        background-color: rgb(104, 12, 112);
+    }
+    .discografia{
+        background-color: aliceblue;
+    }
